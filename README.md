@@ -8,5 +8,5 @@ More details at https://hackaday.io/project/6700-home-power-usage-monitor
 * **/Schematic** - Circuit diagram and PCB layout
   
 #License Information
-The hardware is released under <a href = "https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>  
+This project is released under <a href = "https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>  
 Original Design by Drew Yenzer
